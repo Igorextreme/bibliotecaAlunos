@@ -31,8 +31,6 @@ A parte de lógica da biblioteca já está pronta no arquivo `biblioteca.js`. O 
 ## Regras
 
 - Não alterar o arquivo `index.html`
-- Não alterar o arquivo `biblioteca.js`
-- Todas as alterações devem ser feitas apenas no `app.js`
 - Os comentários `TODO` indicam exatamente o que cada função deve fazer
 - Utilize `document.getElementById()` para acessar os inputs
 - Utilize `mostrarMensagem()` para exibir feedback ao usuário
